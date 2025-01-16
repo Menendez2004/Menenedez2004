@@ -16,9 +16,7 @@ Hi 👋🏻, I'm Kevin Menéndez. My career in software development began severa
 What excites and motivates me most about the technology field is its boundless potential for innovation and problem-solving. I find it deeply rewarding to tackle complex challenges and develop solutions that positively impact people's daily lives. Whether it's creating a web application to streamline business processes or contributing to open-source projects that enhance the global technology community, my goal is to continually expand my knowledge and make meaningful contributions to the field.
 </p>
 
-<p align="justify">
 I firmly believe that continuous learning and collaboration are essential for driving progress in technology. These principles not only fuel my personal growth but also support the ongoing evolution of the software development industry.
-</p>
 
 ## Projects 🏦
 #### Here are some of the projects I've been working on:
