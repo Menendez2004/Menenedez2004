@@ -6,7 +6,7 @@
 
 ### Welcome to my GitHub profile!🐈‍⬛
 
-<img align="right" width=275px alt="Cat" src="imgs/chopper.gif" />
+<img align="right" width=225px alt="Cat" src="imgs/chopper.gif" />
 
 <p align="justify">
 Hi 👋🏻, I'm Kevin Menéndez. My career in software development began several years ago when I embarked on studying this field. During this time, I have gained experience in various areas, including programming languages, web development, database management, and object-relational mapping (ORM).
