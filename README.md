@@ -20,7 +20,13 @@ I firmly believe that continuous learning and collaboration are essential for dr
 
 ## Projects 🏦
 #### Here are some of the projects I've been working on:
-![header!](imgs/demantur.png)
+
+<div align="center">
+<img  width="500" alt="DEMANTUR logo" src="imgs/demantur.png" />
+</div>
+
+<br>
+
 1. **DEMANTUR** 💵
 <br><span style="color:blue">DEMANTUR</span> is a financial web application designed to simplify banking processes in daily life. Our goal is to deliver a modern, reliable, and high-quality service, equipped with essential tools that ensure a user-friendly and dynamic experience.  
 <br>In addition to promoting financial inclusion, <span style="color:blue">DEMANTUR</span> fosters sustainability by creating an educational environment for those seeking guidance on banking processes. Through this approach, we aim to empower users with the knowledge and resources they need to navigate the financial world confidently.
