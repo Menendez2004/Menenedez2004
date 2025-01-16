@@ -6,19 +6,28 @@
 
 ### Welcome to my GitHub profile!🐈‍⬛
 
-<img align="right" width=250px alt="Cat" src="imgs/chopper.gif" />
+<img align="right" width=275px alt="Cat" src="imgs/chopper.gif" />
 
+<p align="justify">
 Hi 👋🏻, I'm Kevin Menéndez. My career in software development began several years ago when I embarked on studying this field. During this time, I have gained experience in various areas, including programming languages, web development, database management, and object-relational mapping (ORM).
+</p>
 
+<p align="justify">
 What excites and motivates me most about the technology field is its boundless potential for innovation and problem-solving. I find it deeply rewarding to tackle complex challenges and develop solutions that positively impact people's daily lives. Whether it's creating a web application to streamline business processes or contributing to open-source projects that enhance the global technology community, my goal is to continually expand my knowledge and make meaningful contributions to the field.
+</p>
 
+<p align="justify">
 I firmly believe that continuous learning and collaboration are essential for driving progress in technology. These principles not only fuel my personal growth but also support the ongoing evolution of the software development industry.
+</p>
 
 ## Projects 🏦
-Here are some of the projects I've been working on:
+#### Here are some of the projects I've been working on:
+![header!](imgs/demantur.png)
 1. **DEMANTUR** 💵
 <br><span style="color:blue">DEMANTUR</span> is a financial web application designed to simplify banking processes in daily life. Our goal is to deliver a modern, reliable, and high-quality service, equipped with essential tools that ensure a user-friendly and dynamic experience.  
 <br>In addition to promoting financial inclusion, <span style="color:blue">DEMANTUR</span> fosters sustainability by creating an educational environment for those seeking guidance on banking processes. Through this approach, we aim to empower users with the knowledge and resources they need to navigate the financial world confidently.
+
+
 <p align="center">
  <a href="https://github.com/Menendez2004/Demantur" target="blank">GitHub Repository</a>
 
@@ -27,7 +36,7 @@ Here are some of the projects I've been working on:
 
 ## Education 📖
 - **Software Development Engineer**
-- CCurrently pursuing a Bachelor's degree in Software Development Engineering at Universidad Don Bosco (UDB)
+- Currently pursuing a Bachelor's degree in Software Development Engineering at Universidad Don Bosco (UDB)
 -  graduation in 2025.
 - Highly committed to mastering the foundational principles of software development, demonstrating a strong dedication to academic and professional growth in the field.
 
